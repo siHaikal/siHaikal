@@ -1,4 +1,4 @@
-Language
+<h1>Language</h1>
 
 ![Javascript](https://github.com/siHaikal/siHaikal/assets/148690124/6a730dbe-164a-4644-aba1-71ac8d5b6919)
 ![PHP](https://github.com/siHaikal/siHaikal/assets/148690124/af07025a-3c3b-43c3-81c0-30fa3cb11a78)
@@ -6,7 +6,7 @@ Language
 ![html](https://github.com/siHaikal/siHaikal/assets/148690124/0e2a602b-3c25-453e-bac7-641f87a8d05f)
 
 
-Framework
+<h1>Framework</h1>
 
 ![icons8-react-48](https://github.com/siHaikal/siHaikal/assets/148690124/2d3c00fa-7324-4057-b73c-b1ed73096827)
 ![icons8-laravel-48](https://github.com/siHaikal/siHaikal/assets/148690124/c15f5c50-73b4-4597-b481-01fc0f07d3ec)
@@ -18,10 +18,6 @@ Framework
 
 
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
-<a href="https://iconscout.com/icons/javascript" class="text-underline font-size-sm" target="_blank">javascript</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm" target="_blank">maninderkaur</a>
+
 
 
